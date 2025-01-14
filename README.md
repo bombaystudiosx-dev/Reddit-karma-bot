@@ -1,4 +1,6 @@
-# Reddit-karma-bot
+<p align="center">
+  <h1>Reddit Karma Bot</h1>
+</p>
 
 **Introduction**: 
 
